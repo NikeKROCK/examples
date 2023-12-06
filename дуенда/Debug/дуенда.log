@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\codes\дуенда\main.cpp(65,3): warning C4060: оператор switch не содержит метку "case" или "default"
+D:\codes\дуенда\main.cpp(35,15): warning C4101: ps: неиспользованная локальная переменная
+  дуенда.vcxproj -> D:\codes\дуенда\Debug\дуенда.exe
